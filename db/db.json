@@ -1,0 +1,21 @@
+{
+  "cpu": [
+    {
+      "id": 1,
+      "name": "AMD \"Athlon 200GE\"",
+      "code": "144912"
+    },
+    {
+      "name": "AMD \"Athlon 100GE\"",
+      "code": "144913",
+      "id": 2
+    }
+  ],
+  "motherboard": [
+    {
+      "id": 1,
+      "name": "ASRock \"B450M PRO4-F\"",
+      "code": "148696"
+    }
+  ]
+}
